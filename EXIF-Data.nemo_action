@@ -1,0 +1,10 @@
+[Nemo Action]
+Active=true
+Name=View EXIF Data
+Comment=View exif data of selected file
+Exec=<scripts/EXIF-Data.sh %F>
+Icon-Name=dialog-information
+Selection=notnone
+Quote=double
+Extensions=aac;avi;flac;jpeg;jpg;m4a;m4v;mkv;mov;mp3;mp4;mpeg;mpg;ogg;ogv;png;
+Dependencies=zenity;exiftool;

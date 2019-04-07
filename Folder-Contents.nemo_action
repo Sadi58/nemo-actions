@@ -1,0 +1,10 @@
+[Nemo Action]
+Active=true
+Name=List Contents...
+Comment=List contents of selected folder
+Exec=<scripts/Folder-Contents.sh %F>
+Icon-Name=folder
+Selection=1
+Quote=double
+Extensions=dir;
+Dependencies=zenity;

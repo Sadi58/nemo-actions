@@ -1,0 +1,9 @@
+[Nemo Action]
+Active=true
+Selection=notnone
+Exec=<scripts/Image-to-JPG.sh %F>
+Icon-Name=image-jpeg
+Mimetypes=image/bmp;image/gif;image/png;image/svg+xml;image/tiff;image/x-compressed-xcf;image/x-icon;image/x-pcx;image/x-psd;image/x-psp;image/x-wmf;image/x-xcf
+Name=Convert Image to JPG
+Quote=double
+Dependencies=convert;

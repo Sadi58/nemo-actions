@@ -1,0 +1,10 @@
+[Nemo Action]
+Active=true
+Name=Search Text...
+Comment=Search text in selected folder
+Exec=<scripts/Dir-Search-Text.sh %F>
+Icon-Name=search
+Selection=1
+Quote=double
+Extensions=dir;
+Dependencies=zenity;

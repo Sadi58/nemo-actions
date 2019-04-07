@@ -1,0 +1,10 @@
+[Nemo Action]
+# All credit goes to https://github.com/trhura/nautilus-renamer
+Active=true
+Name=Rename...
+Comment=Rename selected items
+Exec=<scripts/nautilus-renamer.py %F>
+Icon-Name=pyrenamer
+Selection=m
+Quote=double
+Extensions=any;
