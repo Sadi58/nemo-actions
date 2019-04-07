@@ -7,7 +7,6 @@ List
 - **Dir-Search-Text**: A simple bash script to search for text in a directory and display list via **zenity** (dependency)
 - **EXIF-Data**: A simple bash script to retrieve the metadata of selected audio/video/image file(s) using **exiftool** (dependency) and display via **zenity** (dependency)
 - **Folder-Contents**: A simple bash script to list contents of a directory with several options (filenames/pathnames/recursive) and display list via **zenity** (dependency)
-- **Hide-Show-Links**: A simple bash script to show or hide symbolic links in current folder, using **xdotool** and **zenity** (dependencies) - an old but still working Nautilus script authored by **SLK**.
 - **Image-to-JPG**: A simple bash script to convert selected image files to jpeg format using **convert** (dependency)
 
 Changelog
