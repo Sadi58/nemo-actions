@@ -1,7 +1,0 @@
-[Nemo Action]
-Active=true
-Name=Hide/Show Links
-Comment=Hide or show symbolic links in current folder
-Exec=<scripts/Hide-Show-Links.sh>
-Selection=none
-Dependencies=xdotool;zenity;
