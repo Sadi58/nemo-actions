@@ -1,0 +1,10 @@
+[Nemo Action]
+Active=true
+Name=Add/Change EXIF Geotag
+Comment=Add or change GPS location coordinates in EXIF data of selected file(s)
+Exec=<scripts/Add-Change-EXIF-Geotag.sh %F>
+Icon-Name=dialog-information
+Selection=notnone
+Quote=double
+Extensions=aac;avi;flac;jpeg;jpg;m4a;m4v;mkv;mov;mp3;mp4;mpeg;mpg;ogg;ogv;png;
+Dependencies=zenity;exiftool;
