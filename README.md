@@ -13,4 +13,5 @@ List
 Changelog
 -----------
 2019-09-02: Add-Change-EXIF-Geotag
+
 2019-04-07: Initial upload
