@@ -6,7 +6,7 @@ List
 - **Add-Change-EXIF-Geotag**: A simple bash script to add or change GPS location coordinates in EXIF data of selected picture/video file(s) using **exiftool** and  **zenity** (dependency)
 - **Bulk-Renamer**: I've only written a simple Nemo action file. All credit goes to https://github.com/trhura/nautilus-renamer
 - **Dir-Search-Text**: A simple bash script to search for text in a directory and display list via **zenity** (dependency)
-- **EXIF-Data**: A simple bash script to retrieve the metadata of selected audio/video/image file(s) using **exiftool** (dependency) and display via **zenity** (dependency)
+- **EXIF-Data**: A simple bash script to retrieve the metadata of selected audio/video/image file(s) using **exiftool** (dependency) and display via **dillo** (dependency) in html format
 - **Folder-Contents**: A simple bash script to list contents of a directory with several options (filenames/pathnames/recursive) and display list via **zenity** (dependency)
 - **Image-to-JPG**: A simple bash script to convert selected image files to jpeg format using **convert** (dependency)
 
