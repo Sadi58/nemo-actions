@@ -12,7 +12,7 @@ List
 
 Changelog
 -----------
-2019-12-03: Improved Add-Change-EXIF-Geotag
+2019-12-03: Improved EXIF-Data script
 
 2019-09-02: Add-Change-EXIF-Geotag
 
